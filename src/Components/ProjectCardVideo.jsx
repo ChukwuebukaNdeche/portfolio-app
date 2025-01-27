@@ -23,7 +23,7 @@ function ProjectCardVideo({ vid, title, text, href1, href2, link1, link2 }) {
 
             <iframe className="card-img-top embed-responsive-item"
                 src={vid}
-                preload="auto"
+                loading="lazy"
                 allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media"
                 onLoad={handleVideoLoad} // Detect when the iframe has loaded
                 title="Untitled">
