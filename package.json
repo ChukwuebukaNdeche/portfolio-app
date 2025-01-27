@@ -10,7 +10,8 @@
     "lint": "eslint .",
     "preview": "vite preview",
     "predeploy": "vite build",
-    "deploy": "gh-pages -d dist"
+    "deploy": "gh-pages -d dist",
+    "update-deploy": "git push origin main && npm run deploy"
   },
   "dependencies": {
     "@rstacruz/startup-name-generator": "^0.3.0",

@@ -5,9 +5,12 @@ import { createRoot } from 'react-dom/client'
 import './index.css'
 import App from './App.jsx'
 
+const isProduction = process.env.NODE_ENV === "production";
+const basename = isProduction ? "/portfolio-app" : "/";
+
 createRoot(document.getElementById('root')).render(
   <StrictMode>
-    <BrowserRouter basename="/portfolio-app">
+    <BrowserRouter basename={basename}>
       <App />
     </BrowserRouter>
   </StrictMode>,
