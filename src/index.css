@@ -160,7 +160,7 @@ h4>span {
 /* About Section */
 .about_section {
   background-color: rgba(240, 255, 249, 0.864);
-  
+
 }
 
 .mini {
@@ -356,13 +356,14 @@ h4>span {
 }
 
 
-.project_page_sub
- {
+.project_page_sub {
   font-size: 14px;
   font-weight: bold;
   font-family: 'Open Sans', sans-serif;
 }
-.project_sub, .js_project_sub {
+
+.project_sub,
+.js_project_sub {
   font-size: 14px;
 }
 
