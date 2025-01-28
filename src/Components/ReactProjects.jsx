@@ -18,7 +18,7 @@ function ReactProject() {
 
                     <div className="col-lg-4 col-md-6 col-12 mb-2">
                         <ProjectCardVideo
-                            vid="https://player.vimeo.com/video/1050521180?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;autoplay=1&amp;muted=1&amp;&loop=1&amp;controls=0&amp;player_id=0&amp;app_id=58479"
+                            vid="https://player.vimeo.com/video/1051042686?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;autoplay=1&amp;muted=1&amp;&loop=1&amp;controls=0&amp;player_id=0&amp;app_id=58479"
                             title='Random Joke generator'
                             text='A fun and engaging React-based Random Joke Generator that fetches and displays a new joke every 
                             time the button is clicked. This project utilizes an external API to retrieve jokes and showcases 
@@ -31,7 +31,7 @@ function ReactProject() {
                     </div>
                     <div className="col-lg-4 col-md-6 col-12 mb-2">
                         <ProjectCardVideo
-                            vid="https://player.vimeo.com/video/1050534670?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;autoplay=1&amp;muted=1&amp;&loop=1&amp;controls=0&amp;player_id=0&amp;app_id=58479"
+                            vid="https://player.vimeo.com/video/1051046852?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;autoplay=1&amp;muted=1&amp;&loop=1&amp;controls=0&amp;player_id=0&amp;app_id=58479"
                             title='Ip Address Finder'
                             text='A React-based IP Address Finder app that provides information about a users 
                             IP address. The app fetches data from an API to display the users IP address, location, and other 
@@ -43,7 +43,7 @@ function ReactProject() {
                     </div>
                     <div className="col-lg-4 col-md-6 col-12 mb-2">
                         <ProjectCardVideo
-                            vid="https://player.vimeo.com/video/1050520553?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;autoplay=1&amp;muted=1&amp;&loop=1&amp;controls=0&amp;player_id=0&amp;app_id=58479"
+                            vid="https://player.vimeo.com/video/1051044529?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;autoplay=1&amp;muted=1&amp;&loop=1&amp;controls=0&amp;player_id=0&amp;app_id=58479"
                             title='Domain name Checker'
                             text='A React-based Domain Name Generator app that helps users generates domain names 
                             effortlessly. Users can input a keyword or phrase, and the app generates multiple domain name suggestions. 
@@ -55,7 +55,7 @@ function ReactProject() {
                     </div>
                     <div className="col-lg-4 col-md-6 col-12 mb-2">
                         <ProjectCardVideo
-                            vid="https://player.vimeo.com/video/1050488472?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;autoplay=1&amp;muted=1&amp;&loop=1&amp;controls=0&amp;player_id=0&amp;app_id=58479"
+                            vid="https://player.vimeo.com/video/1051041547?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;autoplay=1&amp;muted=1&amp;&loop=1&amp;controls=0&amp;player_id=0&amp;app_id=58479"
                             title='Todo List'
                             text='A dynamic React-based Todo List app that enables users to manage their tasks. Users can 
                             add new tasks, delete existing ones, and reorder tasks within the list. The app ensures an 
@@ -67,7 +67,7 @@ function ReactProject() {
                     </div>
                     <div className="col-lg-4 col-md-6 col-12 mb-2">
                         <ProjectCardVideo
-                            vid="https://player.vimeo.com/video/1050488151?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;autoplay=1&amp;muted=1&amp;&loop=1&amp;controls=0&amp;player_id=0&amp;app_id=58479"
+                            vid="https://player.vimeo.com/video/1051050035?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;autoplay=1&amp;muted=1&amp;&loop=1&amp;controls=0&amp;player_id=0&amp;app_id=58479"
                             title='Password Stength Checker'
                             text='A robust React-based Password Strength Checker app that ensures users create strong and secure 
                             passwords. The app evaluates the strength of a password entered by the user based on specific criteria: 
@@ -79,7 +79,7 @@ function ReactProject() {
                     </div>
                     <div className="col-lg-4 col-md-6 col-12 mb-2">
                         <ProjectCardVideo
-                            vid="https://player.vimeo.com/video/1050534179?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;autoplay=1&amp;muted=1&amp;&loop=1&amp;controls=0&amp;player_id=0&amp;app_id=58479"
+                            vid="https://player.vimeo.com/video/1051044566?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;autoplay=1&amp;muted=1&amp;&loop=1&amp;controls=0&amp;player_id=0&amp;app_id=58479"
                             title='Form Project'
                             text='A React-based User Input Form that captures and displays user input upon 
                             submission. The app allows users to enter information into a form, which is then displayed on the screen 
@@ -92,7 +92,7 @@ function ReactProject() {
                     </div>
                     <div className="col-lg-4 col-md-6 col-12 mb-2">
                         <ProjectCardVideo
-                            vid="https://player.vimeo.com/video/1050519152?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;autoplay=1&amp;muted=1&amp;&loop=1&amp;controls=0&amp;player_id=0&amp;app_id=58479"
+                            vid="https://player.vimeo.com/video/1051042654?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;autoplay=1&amp;muted=1&amp;&loop=1&amp;controls=0&amp;player_id=0&amp;app_id=58479"
                             title='Count App'
                             text='A simple and interactive React-based Counter App that allows users to increment, decrement, or 
                             reset a counter value. This project demonstrates state management in React and showcases dynamic UI 
@@ -104,7 +104,7 @@ function ReactProject() {
                     </div>
                     <div className="col-lg-4 col-md-6 col-12 mb-2">
                         <ProjectCardVideo
-                            vid="https://player.vimeo.com/video/1050520184?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;autoplay=1&amp;muted=1&amp;&loop=1&amp;controls=0&amp;player_id=0&amp;app_id=58479"
+                            vid="https://player.vimeo.com/video/1051040763?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;autoplay=1&amp;muted=1&amp;&loop=1&amp;controls=0&amp;player_id=0&amp;app_id=58479"
                             title='Digital Clock'
                             text='A sleek and functional digital clock built with React that displays the current time in real-time. 
                             The clock updates every second, offering an accurate and responsive display of the time in a user-friendly 

@@ -22,7 +22,7 @@ function JsProjects() {
 
                     <div className="col-lg-4 col-md-6 col-12 mb-2">
                         <ProjectCardVideo
-                            vid="https://player.vimeo.com/video/1050517006?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;autoplay=1&amp;muted=1&amp;&loop=1&amp;controls=0&amp;player_id=0&amp;app_id=58479"
+                            vid="https://player.vimeo.com/video/1051046887?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;autoplay=1&amp;muted=1&amp;&loop=1&amp;controls=0&amp;player_id=0&amp;app_id=58479"
                             title='Video Project'
                             text='A dynamic video background that can be paused or played with the click of a
                                 button. This project highlights the integration of HTML,
@@ -34,7 +34,7 @@ function JsProjects() {
 
                     <div className="col-lg-4 col-md-6 col-12 mb-2">
                         <ProjectCardVideo
-                            vid="https://player.vimeo.com/video/1050529524?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;autoplay=1&amp;muted=1&amp;&loop=1&amp;controls=0&amp;player_id=0&amp;app_id=58479"
+                            vid="https://player.vimeo.com/video/1051048359?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;autoplay=1&amp;muted=1&amp;&loop=1&amp;controls=0&amp;player_id=0&amp;app_id=58479"
                             title='Modal Project'
                             text='An interactive modal window that opens with a button click and closes with a close
                                     button. This project demonstrates the use of HTML, CSS, and JavaScript
@@ -72,7 +72,7 @@ function JsProjects() {
 
                     <div className="col-lg-4 col-md-6 col-12 mb-2">
                         <ProjectCardVideo
-                            vid="https://player.vimeo.com/video/1050518867?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;autoplay=1&amp;muted=1&amp;&loop=1&amp;controls=0&amp;player_id=0&amp;app_id=58479"
+                            vid="https://player.vimeo.com/video/1051046825?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;autoplay=1&amp;muted=1&amp;&loop=1&amp;controls=0&amp;player_id=0&amp;app_id=58479"
                             title='Color Flipper Project'
                             text='Add a splash of color to your day with this interactive color picker! Built using
                                     HTML, CSS, and JavaScript, this project changes the background to a random color at
@@ -99,7 +99,7 @@ function JsProjects() {
 
                     <div className="col-lg-4 col-md-6 col-12 mb-2">
                         <ProjectCardVideo
-                            vid="https://player.vimeo.com/video/1050519617?badge=0&amp;autopause=0&amp;autoplay=1&amp;muted=1&amp;&loop=1&amp;controls=0&amp;player_id=0&amp;app_id=58479"
+                            vid="https://player.vimeo.com/video/1051042667?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;autoplay=1&amp;muted=1&amp;&loop=1&amp;controls=0&amp;player_id=0&amp;app_id=58479"
                             title='Counter Project'
                             text='A simple counter application that increases or decreases and resets the count with
                                     button clicks. Built using HTML, CSS, and JavaScript, it dynamically updates the 
@@ -112,7 +112,7 @@ function JsProjects() {
 
                     <div className="col-lg-4 col-md-6 col-12 mb-2">
                         <ProjectCardVideo
-                            vid="https://player.vimeo.com/video/1050528710?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;autoplay=1&amp;muted=1&amp;&loop=1&amp;controls=0&amp;player_id=0&amp;app_id=58479"
+                            vid="https://player.vimeo.com/video/1051044585?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;autoplay=1&amp;muted=1&amp;&loop=1&amp;controls=0&amp;player_id=0&amp;app_id=58479"
                             title='Image Slider Project'
                             text='An interactive image slider that showcases a sequence of images with smooth transitions.
                                     Built using HTML, CSS, and JavaScript, it offers a visually engaging way to navigate
