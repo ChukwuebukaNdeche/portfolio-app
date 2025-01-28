@@ -4,7 +4,7 @@ function AboutPage3() {
         <section className="about_page_secs">
             <div className="container">
                 <div className="row">
-                    <h2 className="about_sec_head">Skills & Expertise</h2>
+                    <h2 className="about_sec_head">Skills <span className="mini">&</span> Expertise</h2>
                     <div className="col-md-4">
                         <div className="about_list">
                             <div className="about_icons mb-2"><i className="fa fa-code"></i><span

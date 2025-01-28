@@ -6,7 +6,7 @@ function Skills() {
         <section id="skills" className="py-5">
             <div className="container mt-5 pt-4 skills_section">
                 <div className="row">
-                    <h2 className="about_sec_head mb-3">Skills & Tools</h2>
+                    <h2 className="about_sec_head mb-3">Skills <span className="mini">&</span> Tools</h2>
                     <div className="col-md-4 mb-3 skill_col">
                         <div className="about_icons mb-2"><i className="fa fa-laptop-code"></i><span
                             className="ms-2 fw-bold lhead">Technical

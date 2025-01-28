@@ -7,7 +7,7 @@ function AboutPage5() {
                 <div className="row">
                     <div className="col-md-6 mb-3">
                         <div className="about_page_text">
-                            <h2 className="about_sec_head">My Mission</h2>
+                            <h2 className="about_sec_head">My <span className="mini">Mission</span></h2>
                             <p className="mt-3 mb-3">
                                 I aim to create impactful digital experiences that help businesses and individuals
                                 bring their ideas to life. Whether it’s designing a user-friendly website or building
@@ -17,7 +17,7 @@ function AboutPage5() {
                     </div>
                     <div className="col-md-6">
                         <div className="about_page_text">
-                            <h2 className="about_sec_head">Let’s Work Together!</h2>
+                            <h2 className="about_sec_head">Let’s Work <span className="mini">Together!</span></h2>
                             <p className="my-3 mb-4">
                                 I’d love to collaborate with forward-thinking teams or individuals who share a
                                 passion for creating exceptional digital solutions. If you’d like to discuss a

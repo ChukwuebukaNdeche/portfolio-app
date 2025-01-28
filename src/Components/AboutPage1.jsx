@@ -16,7 +16,7 @@ function AboutPage1() {
                 </div>
                 <div className="col-md-6 ">
                     <div className="about_page_text">
-                        <h2 className="about_sec_head mb-3">About Me</h2>
+                        <h2 className="about_sec_head mb-3">About <span className='mini'>Me</span></h2>
                         <p>
                             <strong>Hi, I’m Emmanuel Chukwuebuka Ndeche 👋</strong><br/>
                             I’m a dedicated and creative <strong>Frontend Web Developer</strong> and <strong>UI/UX

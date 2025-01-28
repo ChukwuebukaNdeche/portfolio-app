@@ -3,7 +3,7 @@ function ProjectCard({img, title, text, href1, href2, link1, link2}) {
 
     return(
         <div className="card border-0 shadow mt-3 hover-shadow">
-                        <img src={img} className="card-img-top" alt="Project Image" loading="lazy"/>
+                        <img src={img} className="card-img-top" alt="Project-Image" loading="lazy"/>
                         <div className="card-body">
                             <h5 className="card-title">{title}</h5>
                             <p className="card-text">{text}</p>

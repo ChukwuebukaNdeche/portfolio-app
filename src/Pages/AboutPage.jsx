@@ -7,7 +7,7 @@ function AboutPage() {
 
     return (
         <>
-        <div style={{backgroundColor: 'rgb(251, 251, 255)'}}>
+        <div style={{backgroundColor: 'rgb(255, 255, 255)'}}>
             <AboutPage1 />
             <AboutPage2 />
             <AboutPage3 />

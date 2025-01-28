@@ -7,7 +7,7 @@ function AboutPage4() {
             <div className="about_hr_line"></div>
             <div className="container">
                 <div className="row about_page_text">
-                    <h2 className="about_sec_head">Experience & Projects</h2>
+                    <h2 className="about_sec_head">Experience <span className="mini">&</span> Projects</h2>
                     <div className="col-md-6">
                         <div className="it">
                             <p>During my time at Digitanotion System, I:</p>
