@@ -14,9 +14,7 @@ function JsProjects() {
                     <div className="js_headins">
                         <h5>JavaScript Showcase</h5>
                         <p className="js_project_sub">
-                            This section highlights projects I built while honing my JavaScript skills. Each project
-                            demonstrates my growing
-                            expertise and practical experience with JavaScript.
+                            This section contains projects I built using JavaScript.
                         </p>
                     </div>
 

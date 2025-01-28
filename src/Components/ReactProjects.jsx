@@ -10,9 +10,7 @@ function ReactProject() {
                     <div className="js_headins">
                         <h5>React Showcase</h5>
                         <p className="js_project_sub">
-                            This section highlights projects I built while honing my React skills. Each project
-                            demonstrates my growing
-                            expertise and practical experience with ReactJS.
+                            This section contains projects I built using React.
                         </p>
                     </div>
 

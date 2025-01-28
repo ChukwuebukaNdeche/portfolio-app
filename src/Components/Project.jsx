@@ -8,7 +8,7 @@ function Project() {
             <div className="container pt-4">
                 <div className="row mb-5">
                     <h2 className="about_sec_head">My <span className="mini">Projects</span></h2>
-                    <p className="mb-4 project_sub">Here are some of the projects i've worked on, showcasing my skills in frontend web
+                    <p className="mb-4 project_sub">Here are some of the projects i've worked on.
                         development</p>
                     <div className="col-md-4 mb-3">
                         <ProjectCardVideo

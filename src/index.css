@@ -355,12 +355,15 @@ h4>span {
   background-color: rgba(240, 255, 249, 0.864);
 }
 
-.project_sub,
-.project_page_sub,
-.js_project_sub {
+
+.project_page_sub
+ {
   font-size: 14px;
   font-weight: bold;
   font-family: 'Open Sans', sans-serif;
+}
+.project_sub, .js_project_sub {
+  font-size: 14px;
 }
 
 .project_btn {
@@ -432,7 +435,6 @@ h4>span {
 
 .contact_sub {
   font-size: 14px;
-  font-weight: bold;
 }
 
 .left_contact a {

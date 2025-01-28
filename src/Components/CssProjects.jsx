@@ -16,10 +16,7 @@ function CssProjects() {
                     <div className="js_headins">
                         <h5>CSS Showcase</h5>
                         <p className="js_project_sub">
-                            This section highlights projects I built while honing my CSS skills. Each project
-                            demonstrates my growing
-                            expertise and practical experience with CSS. This projects were built during practice 
-                            stage, therefore it is not responsive and it is focused on styling, therefore there will be no live url.
+                            This section contains projects I built while honing my CSS skills.
                         </p>
                     </div>
 

@@ -6,9 +6,8 @@ function Contacts() {
                 <div className="row">
                     <div className="col-md-6 mb-5">
                         <h2 className="about_sec_head mb-3">Contact Me</h2>
-                        <h6 className="contact_sub mb-2">Feel free to reach out htmlFor collaborations, project
-                            inquiries, or a
-                            contract</h6>
+                        <h6 className="contact_sub mb-2">Feel free to reach out for collaborations, project
+                            inquiries, or a contract</h6>
                         <div className="left_contact_bg">
                             <div className="mt-2 left_contact">
                                 <h5>Contact Methods</h5>

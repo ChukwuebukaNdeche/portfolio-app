@@ -11,8 +11,8 @@ function ProjectPage() {
                     <div className="container">
                         <h2 className="about_sec_head text-center mb-4">Project <span className='mini'>Page</span></h2>
                         <p className="text-center project_page_sub">
-                            Welcome to my projects! Here, you'll find a collection of my work, showcasing my skills in
-                            front-end development, UI/UX design, and interactive web applications. Dive in and explore!
+                            This page contains a collection of my work, showcasing my skills in
+                            React, HTML, CSS, Bootstrap and Javascript
                         </p>
                     </div>
                 </div>
